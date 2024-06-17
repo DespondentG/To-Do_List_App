@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/despondentG/CGPA-Calculator/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/despondentG/To-Do_List_App/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -30,16 +30,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/despondentG/CGPA-Calculator">
+  <a href="https://github.com/despondentG/To-Do_List_App">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">CGPA Calculator</h3>
+  <h3 align="center">To-Do List App</h3>
 
   <p align="center">
-    Simplifying GPA Management with Kotlin!
+    Tracking and managing tasks with Kotlin!
     <br />
-      <a href="https://github.com/despondentG/CGPA-Calculator"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/despondentG/To-Do_List_App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -177,7 +177,7 @@ The CGPA Calculator app helps you effortlessly compute your Cumulative Grade Poi
 - [ ] Add light theme and dark theme switching support
 - [ ] Add history of CGPA calculated in the past
 
-See the [open issues](https://github.com/despondentG/CGPA-Calculator/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/despondentG/To-Do_List_App/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,7 +215,7 @@ Distributed under the GNU GPLv3 License. See `LICENSE.txt` for more information.
 
 Your Name - Prashant Nigam - pn2849@srmist.edu.in
 
-Project Link: [https://github.com/despondentG/CGPA-Calculator](https://github.com/despondentG/CGPA-Calculator)
+Project Link: [https://github.com/despondentG/To-Do_List_App](https://github.com/despondentG/To-Do_List_App)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -235,16 +235,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/despondentG/CGPA-Calculator.svg?style=for-the-badge
-[contributors-url]: https://github.com/despondentG/CGPA-Calculator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/despondentG/CGPA-Calculator.svg?style=for-the-badge
-[forks-url]: https://github.com/despondentG/CGPA-Calculator/network/members
-[stars-shield]: https://img.shields.io/github/stars/despondentG/CGPA-Calculator.svg?style=for-the-badge
-[stars-url]: https://github.com/despondentG/CGPA-Calculator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/despondentG/CGPA-Calculator.svg?style=for-the-badge
-[issues-url]: https://github.com/despondentG/CGPA-Calculator/issues
-[license-shield]: https://img.shields.io/github/license/despondentG/CGPA-Calculator.svg
-[license-url]: https://github.com/despondentG/CGPA-Calculator/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/despondentG/To-Do_List_App.svg?style=for-the-badge
+[contributors-url]: https://github.com/despondentG/To-Do_List_App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/despondentG/To-Do_List_App.svg?style=for-the-badge
+[forks-url]: https://github.com/despondentG/To-Do_List_App/network/members
+[stars-shield]: https://img.shields.io/github/stars/despondentG/To-Do_List_App.svg?style=for-the-badge
+[stars-url]: https://github.com/despondentG/To-Do_List_App/stargazers
+[issues-shield]: https://img.shields.io/github/issues/despondentG/To-Do_List_App.svg?style=for-the-badge
+[issues-url]: https://github.com/despondentG/To-Do_List_App/issues
+[license-shield]: https://img.shields.io/github/license/despondentG/To-Do_List_App.svg
+[license-url]: https://github.com/despondentG/To-Do_List_App/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/prashant-n-063414213/
 [product-screenshot]: images/screenshot.png
